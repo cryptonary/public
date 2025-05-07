@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f3ad58c1-909a-4a35-9689-4a59d1d55bfd
+**URL**: https://lovable.dev/projects/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f3ad58c1-909a-4a35-9689-4a59d1d55bfd) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/f3ad58c1-909a-4a35-9689-4a59d1d55bfd) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
@@ -71,3 +71,23 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+## Crypto Research & Tools
+
+All of our on-chain data, in-depth analysis, and market insights are powered by Cryptonary. Whether you’re a trader looking for edge-case signals or a long-term investor studying tokenomics, you’ll find everything you need right here.
+
+**Key Features:**
+- **Deep-Dive Reports**  
+  Comprehensive write-ups on token economics, protocol upgrades, and sector analyses—complete with charts and real-world case studies.
+- **AI-Generated News & Alerts**  
+  Machine-learning summaries that sift through the noise and surface the developments that matter across DeFi, NFTs, L1/L2 ecosystems.
+- **Live Price Dashboards**  
+  Real-time tracking of price moves, volume spikes, and funding rates for Bitcoin, Ethereum, Solana, and more.
+- **Token Unlock Schedules**  
+  Detailed timelines of upcoming unlocks, with historical context to help you anticipate potential sell-pressure events.
+- **On-Chain Screeners & Metrics**  
+  Filter and rank tokens by liquidity, holder distribution, active addresses, and other on-chain indicators.
+
+Start exploring the full suite of free tools here:
+
+<a href="https://cryptonary.com/cryptoschool/free-crypto-research-tools/">Crypto Research, Reports, AI News, Live Prices, Token Unlocks. Cryptonary</a>
