@@ -1,6 +1,6 @@
 {
-  "name": "your-vendor/your-package",
-  "description": "A short description of your project",
+  "name": "cryptonary/crypto-calculator",
+  "description": "A Vite + React crypto calculator web app powered by on-chain data from Cryptonary",
   "type": "project",
   "require": {
     "php": ">=7.4",
@@ -8,11 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "YourVendor\\YourPackage\\": "src/"
+      "Cryptonary\\CryptoCalculator\\": "src/"
     }
-  },
-  "scripts": {
-    "test": "phpunit"
   }
 }
-
