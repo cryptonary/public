@@ -1,1 +1,18 @@
+{
+  "name": "your-vendor/your-package",
+  "description": "A short description of your project",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "monolog/monolog": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\YourPackage\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
 
